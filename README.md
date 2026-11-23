@@ -45,3 +45,16 @@ To start my career in the IT industry and continuously improve my technical and 
 
 ---
 ⭐ Thank you for visiting my profile!
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshmukhmrunali31-wq&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukhmrunali31-wq&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=deshmukhmrunali31-wq&theme=tokyonight)
