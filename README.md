@@ -5,6 +5,8 @@
 
 Welcome to my GitHub profile!
 
+<img width="2048" height="768" alt="Mrunali Deshmukh_ Code, Learn, Build, Grow" src="https://github.com/user-attachments/assets/17635312-2f5f-41a5-8f12-be3ce3013010" />
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Sc. Information Technology Graduate
