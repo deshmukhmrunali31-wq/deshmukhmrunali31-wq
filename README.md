@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 - **Web Development:** HTML, CSS, JavaScript
 - **Database:** MySQL
 - **Tools:** Git, GitHub, Eclipse, VS Code
-- 
+  
 - ### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
