@@ -1,25 +1,26 @@
+# Hi there 👋 I'm Mrunali Deshmukh
 
-# Hi there 👋, I'm Mrunali Deshmukh
-
-### B.Sc. IT Graduate | MSc IT Student | Aspiring Software Developer
+### B.Sc. IT Graduate | MSc IT Student
+### Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
 ## 👩‍💻 About Me
+
 - 🎓 B.Sc. Information Technology Graduate
 - 📚 Currently pursuing MSc IT
 - 💻 Interested in Software Development
-- 🌱 Learning Java and Full Stack Development
-- 🎯 Passionate about learning new technologies
+- 🌱 Learning Java Full Stack Development
+- 🎯 Improving my programming and problem-solving skills
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Java, Python
-- **Web Development:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Eclipse, VS Code
-  
-  ### Languages and Tools
+- Programming: Java, Python
+- Web Development: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: Git, GitHub, Eclipse, VS Code
+
+### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,17 +32,27 @@ Welcome to my GitHub profile!
 
 ## 🚀 My Projects
 
-- **Fraud Website Detector** – A project focused on identifying potentially fraudulent websites.
-- **My Resume** – My professional resume.
+### 1. Fraud Website Detector
+A project focused on identifying potentially
+fraudulent websites using Python and web technologies.
 
-## 🎯 Career Goal
+### 2. Hospital Management System
+A Java and MySQL-based project for managing
+hospital-related information.
 
-To start my career in the IT industry and continuously improve my technical and problem-solving skills.
+### 3. My Resume
+My professional resume and career information.
+
+## 🎯 Career Objective
+
+To begin my career in the IT industry as a
+software developer and continuously improve
+my technical knowledge.
 
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/deshmukhmrunali31-wq
-- LinkedIn:https://www.linkedin.com/in/mrunali-deshmukh-431120416/
+- LinkedIn: https://www.linkedin.com/in/mrunali-deshmukh-431120416/
 
 ---
 ⭐ Thank you for visiting my profile!
