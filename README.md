@@ -1,11 +1,12 @@
+
+<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/0a80f86f-3aa8-4813-b273-18f309079f5e" />
+
 # Hi there 👋 I'm Mrunali Deshmukh
 
 ### B.Sc. IT Graduate | MSc IT Student
 ### Aspiring Software Developer
 
 Welcome to my GitHub profile!
-
-<img width="2048" height="768" alt="Mrunali Deshmukh_ Code, Learn, Build, Grow" src="https://github.com/user-attachments/assets/17635312-2f5f-41a5-8f12-be3ce3013010" />
 
 ## 👩‍💻 About Me
 
